@@ -1,6 +1,10 @@
+![cuusoo-logo.png](resources/images/cuusoo-logo.png)
+
 # Introduction
 
 The code in this repository provides sample PySpark functions and sample PyTest unit tests. 
+
+:video_camera: Recording: https://www.youtube.com/watch?v=RESv-hzdc_g&t=676s
 
 # Setting up 
 
